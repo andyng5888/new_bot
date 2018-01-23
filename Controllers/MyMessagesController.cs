@@ -8,7 +8,7 @@ using Microsoft.Bot.Connector;
 namespace Bot_Application
 {
     [BotAuthentication]
-    public class MessagesController : ApiController
+    public class MyMessagesController : ApiController
     {
         /// <summary>
         /// POST: api/Messages
