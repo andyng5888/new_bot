@@ -1,0 +1,63 @@
+C:\Users\Admin\source\repos\Bot Application\Bot Application\bin\Bot Application.dll.config
+C:\Users\Admin\source\repos\Bot Application\Bot Application\bin\Bot Application.dll
+C:\Users\Admin\source\repos\Bot Application\Bot Application\bin\Bot Application.pdb
+C:\Users\Admin\source\repos\Bot Application\Bot Application\bin\Autofac.dll
+C:\Users\Admin\source\repos\Bot Application\Bot Application\bin\Chronic.dll
+C:\Users\Admin\source\repos\Bot Application\Bot Application\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\Admin\source\repos\Bot Application\Bot Application\bin\Microsoft.Bot.Builder.dll
+C:\Users\Admin\source\repos\Bot Application\Bot Application\bin\Microsoft.Bot.Connector.dll
+C:\Users\Admin\source\repos\Bot Application\Bot Application\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\source\repos\Bot Application\Bot Application\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\Admin\source\repos\Bot Application\Bot Application\bin\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\source\repos\Bot Application\Bot Application\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\source\repos\Bot Application\Bot Application\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\source\repos\Bot Application\Bot Application\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\Admin\source\repos\Bot Application\Bot Application\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Admin\source\repos\Bot Application\Bot Application\bin\Newtonsoft.Json.dll
+C:\Users\Admin\source\repos\Bot Application\Bot Application\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\source\repos\Bot Application\Bot Application\bin\System.Net.Http.Formatting.dll
+C:\Users\Admin\source\repos\Bot Application\Bot Application\bin\System.Web.Http.dll
+C:\Users\Admin\source\repos\Bot Application\Bot Application\bin\System.Web.Http.WebHost.dll
+C:\Users\Admin\source\repos\Bot Application\Bot Application\bin\Autofac.xml
+C:\Users\Admin\source\repos\Bot Application\Bot Application\bin\Microsoft.Bot.Builder.xml
+C:\Users\Admin\source\repos\Bot Application\Bot Application\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\Admin\source\repos\Bot Application\Bot Application\bin\Microsoft.Bot.Connector.xml
+C:\Users\Admin\source\repos\Bot Application\Bot Application\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\Admin\source\repos\Bot Application\Bot Application\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\Admin\source\repos\Bot Application\Bot Application\bin\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Admin\source\repos\Bot Application\Bot Application\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\Admin\source\repos\Bot Application\Bot Application\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Admin\source\repos\Bot Application\Bot Application\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\Admin\source\repos\Bot Application\Bot Application\bin\Newtonsoft.Json.xml
+C:\Users\Admin\source\repos\Bot Application\Bot Application\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Admin\source\repos\Bot Application\Bot Application\bin\System.Net.Http.Formatting.xml
+C:\Users\Admin\source\repos\Bot Application\Bot Application\bin\System.Web.Http.xml
+C:\Users\Admin\source\repos\Bot Application\Bot Application\bin\System.Web.Http.WebHost.xml
+C:\Users\Admin\source\repos\Bot Application\Bot Application\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\Admin\source\repos\Bot Application\Bot Application\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\Admin\source\repos\Bot Application\Bot Application\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\Admin\source\repos\Bot Application\Bot Application\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\Admin\source\repos\Bot Application\Bot Application\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\Admin\source\repos\Bot Application\Bot Application\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\Admin\source\repos\Bot Application\Bot Application\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\Admin\source\repos\Bot Application\Bot Application\bin\it\Microsoft.Bot.Builder.resources.dll
+C:\Users\Admin\source\repos\Bot Application\Bot Application\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\Admin\source\repos\Bot Application\Bot Application\bin\nl\Microsoft.Bot.Builder.resources.dll
+C:\Users\Admin\source\repos\Bot Application\Bot Application\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
+C:\Users\Admin\source\repos\Bot Application\Bot Application\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\Admin\source\repos\Bot Application\Bot Application\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\Admin\source\repos\Bot Application\Bot Application\obj\Debug\Bot Application.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Bot Application\Bot Application\obj\Debug\Bot Application.dll
+C:\Users\Admin\source\repos\Bot Application\Bot Application\obj\Debug\Bot Application.pdb
+C:\Users\Admin\source\repos\Bot Application\Bot Application\bin\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.dll
+C:\Users\Admin\source\repos\Bot Application\Bot Application\bin\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.xml
+C:\Users\Admin\source\repos\Bot Application\Bot Application\bin\ar\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\Admin\source\repos\Bot Application\Bot Application\bin\cs\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\Admin\source\repos\Bot Application\Bot Application\bin\de-dE\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\Admin\source\repos\Bot Application\Bot Application\bin\en\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\Admin\source\repos\Bot Application\Bot Application\bin\es\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\Admin\source\repos\Bot Application\Bot Application\bin\fa\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\Admin\source\repos\Bot Application\Bot Application\bin\fr\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\Admin\source\repos\Bot Application\Bot Application\bin\ja\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\Admin\source\repos\Bot Application\Bot Application\bin\zh-hans\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
+C:\Users\Admin\source\repos\Bot Application\Bot Application\obj\Debug\Bot Application.csprojResolveAssemblyReference.cache
