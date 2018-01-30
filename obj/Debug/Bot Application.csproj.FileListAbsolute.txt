@@ -4,6 +4,7 @@ C:\Users\Admin\source\repos\Bot Application\Bot Application\bin\Bot Application.
 C:\Users\Admin\source\repos\Bot Application\Bot Application\bin\Autofac.dll
 C:\Users\Admin\source\repos\Bot Application\Bot Application\bin\Chronic.dll
 C:\Users\Admin\source\repos\Bot Application\Bot Application\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\Admin\source\repos\Bot Application\Bot Application\bin\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.dll
 C:\Users\Admin\source\repos\Bot Application\Bot Application\bin\Microsoft.Bot.Builder.dll
 C:\Users\Admin\source\repos\Bot Application\Bot Application\bin\Microsoft.Bot.Connector.dll
 C:\Users\Admin\source\repos\Bot Application\Bot Application\bin\Microsoft.IdentityModel.Logging.dll
@@ -21,6 +22,7 @@ C:\Users\Admin\source\repos\Bot Application\Bot Application\bin\System.Web.Http.
 C:\Users\Admin\source\repos\Bot Application\Bot Application\bin\Autofac.xml
 C:\Users\Admin\source\repos\Bot Application\Bot Application\bin\Microsoft.Bot.Builder.xml
 C:\Users\Admin\source\repos\Bot Application\Bot Application\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\Admin\source\repos\Bot Application\Bot Application\bin\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.xml
 C:\Users\Admin\source\repos\Bot Application\Bot Application\bin\Microsoft.Bot.Connector.xml
 C:\Users\Admin\source\repos\Bot Application\Bot Application\bin\Microsoft.IdentityModel.Logging.xml
 C:\Users\Admin\source\repos\Bot Application\Bot Application\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
@@ -46,11 +48,6 @@ C:\Users\Admin\source\repos\Bot Application\Bot Application\bin\nl\Microsoft.Bot
 C:\Users\Admin\source\repos\Bot Application\Bot Application\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
 C:\Users\Admin\source\repos\Bot Application\Bot Application\bin\ru\Microsoft.Bot.Builder.resources.dll
 C:\Users\Admin\source\repos\Bot Application\Bot Application\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
-C:\Users\Admin\source\repos\Bot Application\Bot Application\obj\Debug\Bot Application.csproj.CoreCompileInputs.cache
-C:\Users\Admin\source\repos\Bot Application\Bot Application\obj\Debug\Bot Application.dll
-C:\Users\Admin\source\repos\Bot Application\Bot Application\obj\Debug\Bot Application.pdb
-C:\Users\Admin\source\repos\Bot Application\Bot Application\bin\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.dll
-C:\Users\Admin\source\repos\Bot Application\Bot Application\bin\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.xml
 C:\Users\Admin\source\repos\Bot Application\Bot Application\bin\ar\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
 C:\Users\Admin\source\repos\Bot Application\Bot Application\bin\cs\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
 C:\Users\Admin\source\repos\Bot Application\Bot Application\bin\de-dE\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
@@ -60,4 +57,6 @@ C:\Users\Admin\source\repos\Bot Application\Bot Application\bin\fa\Microsoft.Bot
 C:\Users\Admin\source\repos\Bot Application\Bot Application\bin\fr\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
 C:\Users\Admin\source\repos\Bot Application\Bot Application\bin\ja\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
 C:\Users\Admin\source\repos\Bot Application\Bot Application\bin\zh-hans\Microsoft.Bot.Builder.CognitiveServices.QnAMaker.resources.dll
-C:\Users\Admin\source\repos\Bot Application\Bot Application\obj\Debug\Bot Application.csprojResolveAssemblyReference.cache
+C:\Users\Admin\source\repos\Bot Application\Bot Application\obj\Debug\Bot Application.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Bot Application\Bot Application\obj\Debug\Bot Application.dll
+C:\Users\Admin\source\repos\Bot Application\Bot Application\obj\Debug\Bot Application.pdb

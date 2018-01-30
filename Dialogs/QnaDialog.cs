@@ -16,6 +16,10 @@ namespace Bot_Application.Dialogs
             new QnAMakerService(new QnAMakerAttribute(ConfigurationManager.AppSettings["QnASubscriptionKey"], 
             ConfigurationManager.AppSettings["KnowledgeBaseId"], "Hmm, I wasn't able to find an article about that. Can you try asking in a different way?", 0.5)))
         {
+            
         }
+        
+
+
     }
 }

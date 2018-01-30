@@ -9,8 +9,10 @@ using System.Threading;
 namespace Bot_Application.Dialogs
 {
     [Serializable]
-    //4360869a-b840-402b-a157-318f612ef7da ,def91d58-022d-4391-963f-693b1b57cec4
-    [LuisModel("4360869a-b840-402b-a157-318f612ef7da", "186c630cce0c49239798e5285edec59d")]
+    [LuisModel("1c20602d-a4b5-4195-b157-3796bc219d00", "186c630cce0c49239798e5285edec59d")] //for General Queries
+    [LuisModel("4360869a-b840-402b-a157-318f612ef7da", "186c630cce0c49239798e5285edec59d")] //for minLawLuis
+    [LuisModel("4213f2e2-ca67-4767-90dc-498e5b27aa14", "186c630cce0c49239798e5285edec59d")] //for greeting
+
     //[LuisModel("1c20602d-a4b5-4195-b157-3796bc219d00", "186c630cce0c49239798e5285edec59")]
     public class LuisDialog : LuisDialog<object>
     {
@@ -18,7 +20,7 @@ namespace Bot_Application.Dialogs
         {
             return base.StartAsync(context);
         }
-
+  
         [LuisIntent("")]
         [LuisIntent("None")]
         public async Task None(IDialogContext context, LuisResult result)
@@ -87,7 +89,8 @@ namespace Bot_Application.Dialogs
             string message = $"Routing to QnA... ";
             await context.PostAsync(message);
 
-            var userQuestion = (context.Activity as Activity).Text;
+            //var userQuestion = (context.Activity as Activity).Text;
+            (context.Activity as Activity).Text = "operating hours";
             await context.Forward(new QnaDialog(), ResumeAfterQnA, context.Activity, CancellationToken.None);       
         }
 
